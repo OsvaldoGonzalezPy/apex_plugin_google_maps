@@ -20,7 +20,8 @@ El plugin puede ser utilizado para incorporar las funcionalidades de Google Maps
 
 https://apex.oracle.com/pls/apex/r/ws_og/apex_lab
 
-![image](https://github.com/OsvaldoGonzalezPy/apex_plugin_google_maps/assets/47746727/edb4e82a-bb27-4185-82d7-ce9cfe76ff4b)
+![image](https://github.com/OsvaldoGonzalezPy/apex_plugin_google_maps/assets/47746727/e1862d14-a523-4b29-83c2-e85a6422b027)
+
 
 
 
