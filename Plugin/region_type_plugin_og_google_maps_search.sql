@@ -33,7 +33,7 @@ prompt APPLICATION 239526 - APEX Lab
 -- Application Export:
 --   Application:     239526
 --   Name:            APEX Lab
---   Date and Time:   14:56 Thursday November 23, 2023
+--   Date and Time:   22:17 Thursday November 23, 2023
 --   Exported By:     OVALGONZALEZ@GMAIL.COM
 --   Flashback:       0
 --   Export Type:     Component Export
@@ -66,7 +66,7 @@ wwv_flow_imp_shared.create_plugin(
 'begin',
 '    htp.p(''<div style="width: 100%" id="ogmap">',
 '	    <iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" ',
-'        src="https://maps.google.com/maps?q=''||:BUSCADOR_MAPA||''&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed">',
+'            src="https://maps.google.com/maps?q=''||:BUSCADOR_MAPA||''&t=m&z=15&ie=UTF8&iwloc=B&output=embed">',
 '	    </iframe>',
 '    </div>'');',
 '    return null;',
