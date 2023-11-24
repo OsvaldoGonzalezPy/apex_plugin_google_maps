@@ -23,13 +23,13 @@ wwv_flow_api.import_begin (
 end;
 /
  
-prompt APPLICATION 100 - APEX Lab
+prompt APPLICATION 100 - APEXLab
 --
 -- Application Export:
 --   Application:     100
---   Name:            APEX LAb
---   Date and Time:   10:43 Friday November 24, 2023
---   Exported By:     OSVALDOGONZALEZ
+--   Name:            APEXLab
+--   Date and Time:   10:53 Friday November 24, 2023
+--   Exported By:     OSVALDOGONZALEZPY
 --   Flashback:       0
 --   Export Type:     Component Export
 --   Manifest
@@ -72,7 +72,8 @@ wwv_flow_api.create_plugin(
 ,p_standard_attributes=>'AJAX_ITEMS_TO_SUBMIT'
 ,p_substitute_attributes=>true
 ,p_subscribe_plugin_settings=>true
-,p_version_identifier=>'1.5'
+,p_version_identifier=>'1.6'
+,p_about_url=>'https://github.com/OsvaldoGonzalezPy/apex_plugin_google_maps'
 );
 end;
 /
